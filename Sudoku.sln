@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibSudoku", "LibSudoku\LibSudoku.csproj", "{B8289F80-E6DB-471D-84DC-1055FDDE51CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibSudokuTestProjec", "LibSudokuTestProjec\LibSudokuTestProjec.csproj", "{2056E7D7-14F6-435A-8715-BE628E391E23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A96EB0F-F039-4F71-9046-2A8F2C2E1F5F}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Sudoku1.vsmdi = Sudoku1.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDoku", "SuDoku\SuDoku.csproj", "{48D80B54-CEA9-4702-BB89-40CDE6125BC5}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Sudoku1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B8289F80-E6DB-471D-84DC-1055FDDE51CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2056E7D7-14F6-435A-8715-BE628E391E23}.Release|x86.ActiveCfg = Release|Any CPU
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Debug|x86.ActiveCfg = Debug|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Debug|x86.Build.0 = Debug|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Release|Any CPU.ActiveCfg = Release|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Release|Mixed Platforms.Build.0 = Release|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Release|x86.ActiveCfg = Release|x86
+		{48D80B54-CEA9-4702-BB89-40CDE6125BC5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

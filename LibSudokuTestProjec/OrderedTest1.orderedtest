@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="d:\users\stwalkerster\my documents\visual studio 2010\projects\sudoku\libsudoku\libsudokutestprojec\orderedtest1.orderedtest" id="ff8227c7-5adf-4794-bf10-6d90cf853cfe" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Execution id="17c55da0-b233-4264-8c9f-ee5782305304" />
+  <TestLinks>
+    <TestLink id="4645a060-5d45-53c5-928c-4af6acf8412f" name="importDataTest" storage="bin\debug\libsudokutestprojec.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="87bea2ae-cc2b-ba71-7c18-b1b1d9ec487b" name="exportCurrentStateTest" storage="bin\debug\libsudokutestprojec.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="ea3354c6-a9b2-b219-4175-bcb5ab2e447a" name="exportOriginalTest" storage="bin\debug\libsudokutestprojec.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="f997cd93-001a-37b3-f43a-4f1c0bda9117" name="setupRegionsTest" storage="bin\debug\libsudokutestprojec.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="3469f929-9112-bc5b-251a-37ae83dfb436" name="GameConstructorTest1" storage="bin\debug\libsudokutestprojec.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="ddf5a30d-a782-247f-bfd0-c1708060265d" name="updatenotesTest" storage="bin\debug\libsudokutestprojec.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="4a0d5325-f89a-52ad-86a3-b892725b6bde" name="SolveTest" storage="bin\debug\libsudokutestprojec.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
